@@ -1,0 +1,8 @@
+chocolate bar::2.5::1
+burger::4.99::7
+iced tea::2.88::5
+sprite::2.45::4
+Yogurt::4.99::9
+dr. pepper::2.63::7
+Cheetos::2.99::-100
+Boba tea::5.95::3
